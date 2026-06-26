@@ -1,0 +1,27 @@
+# ---- 編譯產物 (C++) ----
+*.exe
+*.out
+*.o
+*.obj
+*.ilk
+*.pdb
+*.exp
+*.lib
+chunithm_receiver
+
+# ---- Windows ----
+.vscode/
+test.txt
+
+# ---- macOS ----
+.DS_Store
+
+# ---- Python ----
+__pycache__/
+*.pyc
+
+# ---- Xcode (iPad app 之後會用到) ----
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
