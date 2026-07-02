@@ -10,7 +10,6 @@
 chunithm_receiver
 
 # ---- Windows ----
-.vscode/
 test.txt
 
 # ---- macOS ----
